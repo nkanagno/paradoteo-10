@@ -1,0 +1,10 @@
+Compiling result:
+
+Success!
+
+    
+Your program:
+
+    
+Your random password is:
+ao2888d3i!

@@ -1,8 +1,5 @@
 #! /usr/bin/bash
 
-# DELETES EVERY FILE EXCEPT c++-Auto-Compiler.sh and compiler.rec:
-find . -type f -not \( -name 'c++-Auto-Compiler.sh' -or -name 'compiler.rec' \) -delete
-
 # Showing current directory:
 echo "my current directory:"
 ls

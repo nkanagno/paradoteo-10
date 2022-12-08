@@ -22,7 +22,6 @@ string Random_password(){
   int i=0;
   string password="";
   int index;
-  
   const int all_chars=44;
   for(i=0;i<pass_len;i++){
     index=rand()%all_chars;
